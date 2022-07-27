@@ -1,0 +1,113 @@
+
+
+body{
+
+background-image:url("immagini/sfondo.jpg");
+background-size: cover;
+
+}
+
+
+.container{
+
+background-color:rgba(0, 0, 0, 0.4);
+border-radius: 10px;
+width:70%;
+height:90%;
+margin: auto;
+
+
+
+
+
+}
+
+.logo{
+
+width: 15%;
+height: 15%;
+padding-top: 4%;
+
+
+}
+
+.scritta{
+
+
+ font-family: 'Poppins', sans-serif;
+ color:#05DD01;
+ font-size: 30px;
+
+
+}
+
+header{
+
+text-align: center;
+margin: auto;
+margin-top: 8%;
+width: 1000px;
+
+
+}
+
+.button{
+
+background-color:#05DD01;
+text-align: center;
+margin: auto;
+width: 700px;
+padding: 7px;
+
+
+}
+
+.scritta1{
+
+font-family:'Poppins', sans-serif;
+color: white;
+
+}
+.scritta2{
+
+  font-family:'Poppins', sans-serif;
+  color: white;
+  font-size: 11px;
+
+
+}
+
+.barra1{
+
+background-color:#F2B453;
+width: 230px;
+height: 16px;
+border-radius:3px;
+
+}
+
+.barra2{
+
+background-color:#1DC31E;
+width: 475px;
+height: 16px;
+border-radius:3px;
+
+}
+.barra3{
+
+  background-color:#BD4140;
+  width: 100px;
+  height: 16px;
+  border-radius:3px;
+
+}
+
+main{
+
+padding-left:9.3%;
+padding-bottom: 10%;
+padding-top: 2%;
+
+
+}
